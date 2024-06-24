@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Camiseta Básica",
+        "type": "variable",
+        "regular_price": "10.00",
+        "description": "Descripción de la camiseta básica blanca talla única.",
+        "short_description": "Breve descripción de la camiseta básica",
+        "local_images": [
+            "C:\\Users\\Usuario\\Desktop\\info\\img\\img4.jpg"
+        ]
+    }
+]

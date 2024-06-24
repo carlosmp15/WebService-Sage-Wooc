@@ -1,0 +1,16 @@
+{
+  "id": "580",
+  "status": "processing",
+    "billing": {
+      "first_name": "Maria",
+      "last_name": "Luque Valle",
+      "address_1": "Avenida Cairo 9",
+      "address_2": "",
+      "city": "Córdoba",
+      "state": "",
+      "postcode": "14014",
+      "country": "ES",
+      "email": "marialuall@yajoo.es",
+      "phone": "+34 678 90 78 12"
+    }
+}

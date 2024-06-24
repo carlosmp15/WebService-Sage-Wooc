@@ -1,0 +1,301 @@
+[
+  {
+    "id": 593,
+    "name": "VAQUEROS CORTOS",
+    "slug": "vaqueros-cortos",
+    "permalink": "https://www.sage200cprestashop.com/wp/producto/vaqueros-cortos/",
+    "date_created": "2024-05-22T12:49:50",
+    "date_created_gmt": "2024-05-22T10:49:50",
+    "date_modified": "2024-05-22T13:05:39",
+    "date_modified_gmt": "2024-05-22T11:05:39",
+    "type": "variable",
+    "status": "publish",
+    "featured": False,
+    "catalog_visibility": "visible",
+    "description": "<p>Explora nuestra nueva línea de vaqueros cortos azules, diseñados para brindarte comodidad y estilo en tus aventuras diarias. Confeccionados con denim de alta calidad y un ajuste moderno, estos vaqueros son una opción versátil para cualquier ocasión casual.</p>\n",
+    "short_description": "<p>Vaqueros cortos azules: estilo y comodidad en un solo diseño. ¡Ideal para tus looks de verano!</p>\n",
+    "sku": "0000000015",
+    "price": "29.99",
+    "regular_price": "",
+    "sale_price": "",
+    "date_on_sale_from": None,
+    "date_on_sale_from_gmt": None,
+    "date_on_sale_to": None,
+    "date_on_sale_to_gmt": None,
+    "on_sale": False,
+    "purchasable": True,
+    "total_sales": 0,
+    "virtual": False,
+    "downloadable": False,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": False,
+    "stock_quantity": None,
+    "backorders": "no",
+    "backorders_allowed": False,
+    "backordered": False,
+    "low_stock_amount": None,
+    "sold_individually": False,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": True,
+    "shipping_taxable": True,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": True,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 450,
+        "name": "PANTALONES",
+        "slug": "pantalones"
+      },
+      {
+        "id": 454,
+        "name": "PANTALONES CORTOS",
+        "slug": "pantalones-cortos"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 592,
+        "date_created": "2024-05-22T14:49:50",
+        "date_created_gmt": "2024-05-22T10:49:50",
+        "date_modified": "2024-05-22T14:49:50",
+        "date_modified_gmt": "2024-05-22T10:49:50",
+        "src": "https://www.sage200cprestashop.com/wp/wp-content/uploads/2024/05/vaqueros_cortos.jpg",
+        "name": "vaqueros_cortos.jpg",
+        "alt": ""
+      }
+    ],
+    "attributes": [
+      {
+        "id": 13,
+        "name": "COLORES",
+        "slug": "pa_colores",
+        "position": 0,
+        "visible": True,
+        "variation": True,
+        "options": [
+          "AZUL"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "TALLAJE LETRAS",
+        "slug": "pa_tallaje-letras",
+        "position": 0,
+        "visible": True,
+        "variation": True,
+        "options": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      }
+    ],
+    "default_attributes": [],
+    "variations": [
+      604,
+      605,
+      606,
+      607
+    ],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<span class="
+    woocommerce-Price-amount
+    amount
+    "><bdi>36.29<span class="
+    woocommerce-Price-currencySymbol
+    ">&euro;</span></bdi></span> <small class="
+    woocommerce-price-suffix
+    ">(Impuestos Inc.)</small>",
+    "related_ids": [],
+    "meta_data": [],
+    "stock_status": "instock",
+    "has_options": True,
+    "post_password": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.sage200cprestashop.com/wp/wp-json/wc/v3/products/593"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.sage200cprestashop.com/wp/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 591,
+    "name": "CAMISETA RAYAS",
+    "slug": "camiseta-rayas",
+    "permalink": "https://www.sage200cprestashop.com/wp/producto/camiseta-rayas/",
+    "date_created": "2024-05-22T12:44:12",
+    "date_created_gmt": "2024-05-22T10:44:12",
+    "date_modified": "2024-05-22T13:00:29",
+    "date_modified_gmt": "2024-05-22T11:00:29",
+    "type": "variable",
+    "status": "publish",
+    "featured": False,
+    "catalog_visibility": "visible",
+    "description": "<p>Descubre nuestra nueva colección de camisetas de manga corta para hombre, donde el estilo y la comodidad se unen en una sola prenda. Nuestras camisetas de rayas ofrecen un toque moderno y casual a tu vestuario, perfectas para lucir en cualquier ocasión. Con una amplia gama de colores y diseños, encontrarás la camiseta perfecta para expresar tu estilo único.</p>\n",
+    "short_description": "<p>Camiseta de manga corta para hombre con un diseño a rayas que combina estilo y comodidad. Ideal para un look casual y moderno en cualquier ocasión.</p>\n",
+    "sku": "0000000014",
+    "price": "9.99",
+    "regular_price": "",
+    "sale_price": "",
+    "date_on_sale_from": None,
+    "date_on_sale_from_gmt": None,
+    "date_on_sale_to": None,
+    "date_on_sale_to_gmt": None,
+    "on_sale": False,
+    "purchasable": True,
+    "total_sales": 0,
+    "virtual": False,
+    "downloadable": False,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": False,
+    "stock_quantity": None,
+    "backorders": "no",
+    "backorders_allowed": False,
+    "backordered": False,
+    "low_stock_amount": None,
+    "sold_individually": False,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": True,
+    "shipping_taxable": True,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": True,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 447,
+        "name": "CAMISETAS",
+        "slug": "camisetas"
+      },
+      {
+        "id": 446,
+        "name": "TOPS",
+        "slug": "tops"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 590,
+        "date_created": "2024-05-22T14:44:12",
+        "date_created_gmt": "2024-05-22T10:44:12",
+        "date_modified": "2024-05-22T14:44:12",
+        "date_modified_gmt": "2024-05-22T10:44:12",
+        "src": "https://www.sage200cprestashop.com/wp/wp-content/uploads/2024/05/camiseta_rayas-1.jpg",
+        "name": "camiseta_rayas-1.jpg",
+        "alt": ""
+      }
+    ],
+    "attributes": [
+      {
+        "id": 13,
+        "name": "COLORES",
+        "slug": "pa_colores",
+        "position": 0,
+        "visible": True,
+        "variation": True,
+        "options": [
+          "BLANCO",
+          "NEGRO"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "TALLAJE LETRAS",
+        "slug": "pa_tallaje-letras",
+        "position": 0,
+        "visible": True,
+        "variation": True,
+        "options": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      }
+    ],
+    "default_attributes": [],
+    "variations": [
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602
+    ],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<span class="
+    woocommerce-Price-amount
+    amount
+    "><bdi>12.09<span class="
+    woocommerce-Price-currencySymbol
+    ">&euro;</span></bdi></span> <small class="
+    woocommerce-price-suffix
+    ">(Impuestos Inc.)</small>",
+    "related_ids": [],
+    "meta_data": [],
+    "stock_status": "instock",
+    "has_options": True,
+    "post_password": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.sage200cprestashop.com/wp/wp-json/wc/v3/products/591"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.sage200cprestashop.com/wp/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  }
+]

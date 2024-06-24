@@ -1,0 +1,19 @@
+[
+    {
+        "slug": "jeans",
+        "parent": 0,
+        "name": "JEANS"
+    },
+    {
+        "slug": "cargo",
+        "parent": 1,
+        "name": "CARGO"
+    },
+    {
+        "slug": "slim",
+        "parent": 1,
+        "name": "SLIM"
+    }
+]
+
+

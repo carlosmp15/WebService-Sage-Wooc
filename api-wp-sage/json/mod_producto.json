@@ -1,0 +1,12 @@
+{
+  "id": "269",
+  "name": "Jeans 12345",
+  "description": "Sumérgete en el mundo del estilo auténtico con nuestros vaqueros de alta calidad, diseñados para aquellos que aprecian la combinación perfecta entre moda y funcionalidad.",
+  "regular_price": "29.99",
+  "images": [
+      {
+        "src": "https://sage200cprestashop.com/wp/img_sage/zapatilla_deportiva.jpg",
+        "name": "deportivas1"
+      }
+    ]
+}

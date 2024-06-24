@@ -1,0 +1,14 @@
+[
+  {
+    "name": "111222 Deportivas simples",
+    "type": "variable",
+    "regular_price": "19.99",
+    "description": "Zapatillas de deporte color amarillas. Talla 45",
+    "images": [
+      {
+        "src": "https://sage200cprestashop.com/wp/img_sage/zapatilla_deportiva.jpg",
+        "name": "deportivas1"
+      }
+    ]
+    }
+]

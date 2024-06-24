@@ -1,0 +1,114 @@
+[
+  {
+    "codAlternativo": "257",
+    "codTalla": "2XL",
+    "color": "AZUL",
+    "unidades": "9.0000000000",
+    "precio": "100.0000000000"
+  },
+  {
+    "codAlternativo": "257",
+    "codTalla": "L",
+    "color": "AZUL",
+    "unidades": "5.0000000000",
+    "precio": "100.0000000000"
+  },
+  {
+    "codAlternativo": "257",
+    "codTalla": "M",
+    "color": "AZUL",
+    "unidades": "1.0000000000",
+    "precio": "100.0000000000"
+  },
+  {
+    "codAlternativo": "257",
+    "codTalla": "S",
+    "color": "AZUL",
+    "unidades": "1.0000000000",
+    "precio": "100.0000000000"
+  },
+  {
+    "codAlternativo": "257",
+    "codTalla": "XL",
+    "color": "AZUL",
+    "unidades": "10.0000000000",
+    "precio": "100.0000000000"
+  },
+  {
+    "codAlternativo": "257",
+    "codTalla": "XS",
+    "color": "AZUL",
+    "unidades": "10.0000000000",
+    "precio": "100.0000000000"
+  },
+  {
+    "codAlternativo": "0000000000253",
+    "codTalla": "2XL",
+    "color": "AZUL",
+    "unidades": "0E-10",
+    "precio": "29.9900000000"
+  },
+  {
+    "codAlternativo": "0000000000253",
+    "codTalla": "L",
+    "color": "AZUL",
+    "unidades": "0E-10",
+    "precio": "29.9900000000"
+  },
+  {
+    "codAlternativo": "0000000000253",
+    "codTalla": "M",
+    "color": "AZUL",
+    "unidades": "0E-10",
+    "precio": "29.9900000000"
+  },
+  {
+    "codAlternativo": "0000000000253",
+    "codTalla": "S",
+    "color": "AZUL",
+    "unidades": "0E-10",
+    "precio": "29.9900000000"
+  },
+  {
+    "codAlternativo": "0000000000253",
+    "codTalla": "XL",
+    "color": "AZUL",
+    "unidades": "0E-10",
+    "precio": "29.9900000000"
+  },
+  {
+    "codAlternativo": "0000000000253",
+    "codTalla": "XS",
+    "color": "AZUL",
+    "unidades": "0E-10",
+    "precio": "29.9900000000"
+  },
+  {
+    "codAlternativo": "0000000000253",
+    "codTalla": "S",
+    "color": "VERDE",
+    "unidades": "0E-10",
+    "precio": "29.9900000000"
+  },
+  {
+    "codAlternativo": "257",
+    "codTalla": "M",
+    "color": "VERDE",
+    "unidades": "10.0000000000",
+    "precio": "100.0000000000"
+  },
+  {
+    "codAlternativo": "257",
+    "codTalla": "S",
+    "color": "VERDE",
+    "unidades": "20.0000000000",
+    "precio": "100.0000000000"
+  },
+  {
+    "codAlternativo": "257",
+    "codTalla": "XS",
+    "color": "VERDE",
+    "unidades": "2.0000000000",
+    "precio": "100.0000000000"
+  }
+]

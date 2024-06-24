@@ -1,0 +1,170 @@
+[
+  {
+    "id": 11,
+    "date_created": "2024-04-22T12:44:53",
+    "date_created_gmt": "2024-04-22T10:44:53",
+    "date_modified": "2024-04-22T12:44:53",
+    "date_modified_gmt": "2024-04-22T10:44:53",
+    "email": "programacion3@venturaespejo.com",
+    "first_name": "Francisco",
+    "last_name": "Lopera Villa",
+    "role": "customer",
+    "username": "programacion3",
+    "billing": {
+      "first_name": "",
+      "last_name": "",
+      "company": "",
+      "address_1": "",
+      "address_2": "",
+      "city": "",
+      "postcode": "",
+      "country": "",
+      "state": "",
+      "email": "",
+      "phone": ""
+    },
+    "shipping": {
+      "first_name": "",
+      "last_name": "",
+      "company": "",
+      "address_1": "",
+      "address_2": "",
+      "city": "",
+      "postcode": "",
+      "country": "",
+      "state": "",
+      "phone": ""
+    },
+    "is_paying_customer": False,
+    "avatar_url": "https://secure.gravatar.com/avatar/c0537b8e3ed06868307f1f0465a1d2d6?s=96&d=mm&r=g",
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.sage200cprestashop.com/wp/wp-json/wc/v3/customers/11"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.sage200cprestashop.com/wp/wp-json/wc/v3/customers"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "date_created": "2024-04-24T09:47:34",
+    "date_created_gmt": "2024-04-24T07:47:34",
+    "date_modified": "2024-04-24T10:57:54",
+    "date_modified_gmt": "2024-04-24T08:57:54",
+    "email": "notificaciones@venturaespejo.com",
+    "first_name": "notificaciones",
+    "last_name": "notificaciones",
+    "role": "customer",
+    "username": "notificaciones",
+    "billing": {
+      "first_name": "",
+      "last_name": "",
+      "company": "",
+      "address_1": "",
+      "address_2": "",
+      "city": "",
+      "postcode": "",
+      "country": "",
+      "state": "",
+      "email": "",
+      "phone": ""
+    },
+    "shipping": {
+      "first_name": "",
+      "last_name": "",
+      "company": "",
+      "address_1": "",
+      "address_2": "",
+      "city": "",
+      "postcode": "",
+      "country": "",
+      "state": "",
+      "phone": ""
+    },
+    "is_paying_customer": False,
+    "avatar_url": "https://secure.gravatar.com/avatar/34cdd625603b984931b8b2c0fda05d40?s=96&d=mm&r=g",
+    "meta_data": [
+      {
+        "id": 238,
+        "key": "wc_last_active",
+        "value": "1713916800"
+      }
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.sage200cprestashop.com/wp/wp-json/wc/v3/customers/12"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.sage200cprestashop.com/wp/wp-json/wc/v3/customers"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "date_created": "2024-04-03T14:20:43",
+    "date_created_gmt": "2024-04-03T12:20:43",
+    "date_modified": "2024-04-24T10:57:52",
+    "date_modified_gmt": "2024-04-24T08:57:52",
+    "email": "pepelg@gemail.com",
+    "first_name": "Pepe",
+    "last_name": "Lopez Gomez",
+    "role": "customer",
+    "username": "pepelg",
+    "billing": {
+      "first_name": "",
+      "last_name": "",
+      "company": "",
+      "address_1": "",
+      "address_2": "",
+      "city": "",
+      "postcode": "",
+      "country": "",
+      "state": "",
+      "email": "",
+      "phone": ""
+    },
+    "shipping": {
+      "first_name": "",
+      "last_name": "",
+      "company": "",
+      "address_1": "",
+      "address_2": "",
+      "city": "",
+      "postcode": "",
+      "country": "",
+      "state": "",
+      "phone": ""
+    },
+    "is_paying_customer": False,
+    "avatar_url": "https://secure.gravatar.com/avatar/93ae285f4197ecf1cf437aa002a7098c?s=96&d=mm&r=g",
+    "meta_data": [
+      {
+        "id": 190,
+        "key": "wc_last_active",
+        "value": "1713484800"
+      }
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.sage200cprestashop.com/wp/wp-json/wc/v3/customers/5"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.sage200cprestashop.com/wp/wp-json/wc/v3/customers"
+        }
+      ]
+    }
+  }
+]

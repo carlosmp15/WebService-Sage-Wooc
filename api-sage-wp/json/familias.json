@@ -1,0 +1,58 @@
+[
+  {
+    "codFamilia": "10001",
+    "codArancelario": "358",
+    "name": "Jeans 001",
+    "slug": "jeans 001",
+    "parent": 0
+  },
+  {
+    "codFamilia": "10002",
+    "codArancelario": "359",
+    "name": "Slim",
+    "slug": "slim",
+    "parent": "10001"
+  },
+  {
+    "codFamilia": "10003",
+    "codArancelario": "360",
+    "name": "Anchos",
+    "slug": "anchos",
+    "parent": "10001"
+  },
+  {
+    "codFamilia": "10008",
+    "codArancelario": "361",
+    "name": "PRUEBA SUB FAMILIA 10008",
+    "slug": "prueba sub familia 10008",
+    "parent": "10001"
+  },
+  {
+    "codFamilia": "20001",
+    "codArancelario": "355",
+    "name": "Zapatos",
+    "slug": "zapatos",
+    "parent": 0
+  },
+  {
+    "codFamilia": "20002",
+    "codArancelario": "356",
+    "name": "Futbol",
+    "slug": "futbol",
+    "parent": "20001"
+  },
+  {
+    "codFamilia": "20003",
+    "codArancelario": "357",
+    "name": "Montaña",
+    "slug": "montaña",
+    "parent": "20001"
+  },
+  {
+    "codFamilia": "20004",
+    "codArancelario": "355",
+    "name": "Baloncesto",
+    "slug": "baloncesto",
+    "parent": "20001"
+  }
+]

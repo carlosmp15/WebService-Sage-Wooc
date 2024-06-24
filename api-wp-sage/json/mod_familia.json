@@ -1,0 +1,7 @@
+{
+    "id": 21,
+    "name": "Categoria modificada",
+    "slug": "nueva-categoria",
+    "parent": 0,
+    "description": "Descripción de la categoría modificada"
+}
